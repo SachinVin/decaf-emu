@@ -32,5 +32,5 @@ Configuration files can be found at:
 
 On Linux, a "Bus error" crash usually indicates an out-of-space error in the temporary directory.  Set the `TMPDIR` environment variable to a directory on a filesystem with at least 2GB free.
 
-Additionally there is an SDL command line application which can be used by `./decaf-sdl play <path to game>`
+Additionally there is an SDL command line application which can be used by `./decaf-sdl play <path to game>`.
 
